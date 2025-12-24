@@ -1,4 +1,4 @@
-# Seminar_ENS_Spices_and_Additives
+# Seminar on Energy Demand and Specific Energy Consumption of Spices and Additives
 
 This project investigates the energy demand and specific energy consumption (SEC) of spice and additive processing, focusing on two representative products: red pepper and mustard oil. The study uses a process-based modeling approach to quantify energy inputs for each unit operation such as drying, grinding, and oil extraction—within well-defined system boundaries.
 
